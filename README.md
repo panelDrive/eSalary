@@ -1,2 +1,2 @@
-# eSalary-
+# eSalary
 Salary System Extension 
